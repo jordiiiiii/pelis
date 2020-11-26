@@ -2,7 +2,7 @@
 ***
 [Ciència Ficció](ciencia_ficcio.md) |  [Manga](manga.md)     |  [Road Movie](road_movie.md) |  [Terror](terror.md)                   |  [Thriller](thriller.md)
 :----------------------------------:|:----------------------:|:----------------------------:|:--------------------------------------:|:-------------------------:
-![](/img/starwars.png)              |  ![](/img/akira.jpg)   | ![](/img/madmax.jpg)         |  ![](/img/nightmare-on-elm-street.jpg) |  ![](/img/psicho.jpg)
+![](img/starwars.png)              |  ![](img/akira.jpg)   | ![](img/madmax.jpg)         |  ![](img/nightmare-on-elm-street.jpg) |  ![](img/psicho.jpg)
 
 <br>
 

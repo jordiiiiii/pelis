@@ -1,6 +1,6 @@
 # Ciència Ficció
 ***
-![Ciencia Ficcio](/img/cienciaficcio.jpg){: style="width:900px"}
+![Ciencia Ficcio](img/cienciaficcio.jpg){: style="width:900px"}
 ***      
 ## Intro
 ***

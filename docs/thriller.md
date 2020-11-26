@@ -1,6 +1,6 @@
 # Thriller
 ***
-![Thriller](/img/thriller.jpg){: style="width:900px"}
+![Thriller](img/thriller.jpg){: style="width:900px"}
 ***
 ## Intro
 ***

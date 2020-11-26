@@ -1,6 +1,6 @@
 # Road Movie
 ***
-![Road Movie](/img/roadmovie.jpg){: style="width:900px"}
+![Road Movie](img/roadmovie.jpg){: style="width:900px"}
 ***
 ## Intro
 ***

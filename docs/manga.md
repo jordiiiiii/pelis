@@ -1,6 +1,6 @@
 # Manga
 ***
-![Manga](/img/manga.jpg){: style="width:900px"}
+![Manga](img/manga.jpg){: style="width:900px"}
 ***      
 ## Intro
 ***

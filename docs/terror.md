@@ -1,6 +1,6 @@
 # Terror
 ***
-![Terror](/img/terror.webp){: style="width:900px"}
+![Terror](img/terror.webp){: style="width:900px"}
 ***
 ## Intro
 ***
