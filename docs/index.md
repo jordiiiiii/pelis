@@ -1,4 +1,12 @@
-# Welcome to Pelis
+# Benvinguts a Pelis
+***
+[Ciència Ficció](ciencia_ficcio.md) |  [Manga](manga.md)     |  [Road Movie](road_movie.md) |  [Terror](terror.md)                   |  [Thriller](thriller.md)
+:----------------------------------:|:----------------------:|:----------------------------:|:--------------------------------------:|:-------------------------:
+![](/img/starwars.png)              |  ![](/img/akira.jpg)   | ![](/img/madmax.jpg)         |  ![](/img/nightmare-on-elm-street.jpg) |  ![](/img/psicho.jpg)
+
+<br>
+
+Mira el treball a [github.com](https://github.com/jordiiiiii/pelis)
 
 <!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -15,4 +23,3 @@
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files. -->
-

@@ -1,1 +1,13 @@
 site_name: Pelis
+nav:
+  - Home: index.md
+  - Ciència-Ficció: ciencia_ficcio.md
+  - Manga: manga.md
+  - Road Movie: road_movie.md
+  - Terror: terror.md
+  - Thriller: thriller.md
+  - About: about.md
+theme: readthedocs
+markdown_extensions:
+  - attr_list
+copyright: Copyright &copy; 2016 - 2020 Jordi Gorbe Neira
